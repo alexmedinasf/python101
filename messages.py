@@ -1,7 +1,7 @@
 def Hello():
-    print("Hello, welcome to the rock paper scissors game!")
-    print("Choose carefully, as the computer is a formidable opponent.")
+    print("Hello, welcome to the rock paper scissors game!\n")
+    print("Choose carefully, as the computer is a formidable opponent.\n")
     
 def Bye():
-    print("Thanks for playing! Goodbye.")
-    print("Hope to see you again soon!")    
+    print("\nThanks for playing! Goodbye.")
+    print("\nHope to see you again soon!")    
