@@ -1,1 +1,1 @@
-# python101
+Project to learn and test my Pyhton skills
